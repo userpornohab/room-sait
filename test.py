@@ -2,8 +2,9 @@ import servises
 
 src = servises
 data_start_test = '01.01.2024'
-data_end_test = '01.02.2024'
+data_end_test = '01.03.2024'
 src.year = 2024
+print('wdqwqd')
 src.limit_number = 4
 src.upd_price_test = 3000
 a = src.create_calendar_dict(src.year)
